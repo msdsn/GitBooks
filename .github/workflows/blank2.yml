@@ -27,5 +27,5 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Gpt Translator çalıştır
-        uses: msdsn/Gpt-Translator@v1.2
+        uses: msdsn/Gpt-Translator@v1.3
 
